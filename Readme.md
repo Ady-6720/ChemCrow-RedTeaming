@@ -78,8 +78,5 @@ Documents the logs of prompt engineering experiments and responses, serving as a
 - Add new cells for advanced simulations or visualizations.
 - Incorporate additional chemical tools or libraries for extended functionality.
 
-## Support
-If you encounter issues, please reach out via the provided contact information.
-
 Happy experimenting with ChemCrow!
 #
