@@ -1,0 +1,10 @@
+chemcrow
+json
+numpy
+openai
+os
+pandas
+rdkit
+time
+warnings
+paperscraper
